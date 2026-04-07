@@ -9,7 +9,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) application that connec
 ### For Students
 - 🎓 Student-specific login & registration portal
 - 🏠 Browse verified care homes with search & filter
-- 💰 Donate from as little as £0.50 with preset amounts
+- 💰 Donate from as little as ₹ 50 with preset amounts
 - 🎯 Support specific campaigns or make general donations
 - 🎁 Browse & fulfill care home wishlists
 - 🏆 Points & badges gamification system
@@ -214,9 +214,9 @@ db.users.insertOne({
 | 🌟 First Gift | Make your first donation |
 | 💚 Regular Giver | 5+ donations |
 | 🦸 Super Giver | 20+ donations |
-| 🥉 Bronze Donor | £10+ total donated |
-| 🥈 Silver Donor | £50+ total donated |
-| 🥇 Gold Donor | £100+ total donated |
+| 🥉 Bronze Donor | ₹10+ total donated |
+| 🥈 Silver Donor | ₹50+ total donated |
+| 🥇 Gold Donor | ₹100+ total donated |
 
 Points: 10 points per £1 donated
 
