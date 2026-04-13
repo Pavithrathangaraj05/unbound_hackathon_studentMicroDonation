@@ -28,7 +28,7 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) application that connec
 ### Technical Features
 - JWT authentication with role-based access control
 - Separate login pages for students and care homes
-- Points system (10 pts per £1 donated)
+- Points system (10 pts per ₹5 donated)
 - Badge system (First Giver, Regular, Super, Bronze/Silver/Gold Donor)
 - Material UI + React Bootstrap hybrid UI
 - Responsive for mobile and desktop
