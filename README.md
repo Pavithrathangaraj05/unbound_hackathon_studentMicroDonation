@@ -221,4 +221,6 @@ db.users.insertOne({
 
 Points: 10 points per ₹1 donated
 
+Documenttion Link
+https://docs.google.com/presentation/d/1AUEP7ubn13SHy3PphDH6g5b3j1-wqmr62U_UTSfhWJc/edit?usp=sharing
 
