@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💜 MicroGive — Student Micro-Donation Platform for Care Homes
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) application that connects university students with care homes through micro-donations.
@@ -219,10 +219,6 @@ db.users.insertOne({
 | 🥈 Silver Donor | ₹50+ total donated |
 | 🥇 Gold Donor | ₹100+ total donated |
 
-Points: 10 points per £1 donated
+Points: 10 points per ₹1 donated
 
----
 
-=======
-# unbound_hackathon_studentMicroDonation
->>>>>>> 0818ec762e6cfaf3dbb67168b77be80369fc2107
